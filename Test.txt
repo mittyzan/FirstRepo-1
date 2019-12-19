@@ -1,1 +1,1 @@
-Harish is Here 16Dec
+docker swarm join --token SWMTKN-1-4ch1u99aeleqt4t412ve76hnldxwkwsrwg0heg1u4bu36z9ozl-binltr41999l7th7oyt1nt3sn 52.172.31.96:2377
